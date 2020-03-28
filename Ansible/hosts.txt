@@ -1,0 +1,2 @@
+[staging_servers]
+linux1	ansible_host=35.232.3.116 owner=Jim

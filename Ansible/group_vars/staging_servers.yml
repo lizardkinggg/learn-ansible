@@ -1,0 +1,3 @@
+---
+ ansible_user : jim
+ ansible_password : 4321

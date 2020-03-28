@@ -1,0 +1,9 @@
+
+---
+- name: ping to my servers
+  hosts: all
+  become: yes
+
+  tasks:
+  - name: module ping
+    ping:
